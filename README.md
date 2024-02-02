@@ -1,6 +1,6 @@
 # Foundry UUPS Upgradeable Contracts
 
-*Upgradeable contracts are a menance and in general should be avoided for*
+*Upgradeable contracts are a menance and in general should be avoided for 
 
 
 - [Foundry UUPS Upgradeable Contracts](#foundry-uups-upgradeable-contracts)
@@ -40,7 +40,7 @@ forge build
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]([https://](https://gitpod.io/#)github.com/Blockchain-Oracle/Upgradeable-SmartContract)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/Blockchain-Oracle/Upgradeable-SmartContract)
 # Usage
 
 ## Start a local node
