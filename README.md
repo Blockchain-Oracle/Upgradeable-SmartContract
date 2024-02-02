@@ -1,6 +1,6 @@
 # Foundry UUPS Upgradeable Contracts
 
-*Upgradeable contracts are a menance and in general should be avoided for 
+*Upgradeable contracts are a menance and in general should be avoided for*
 
 
 - [Foundry UUPS Upgradeable Contracts](#foundry-uups-upgradeable-contracts)
